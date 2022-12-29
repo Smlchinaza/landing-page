@@ -1,0 +1,53 @@
+body{
+    background-color: hsl(251, 68%, 35%);
+    padding: 20px;
+    background-image: url(images/bg-desktop.svg);
+}
+.container{
+    height: 100%;
+}
+.sub-container{
+    display: flex;
+    height: auto;
+    margin-top: 5rem;
+}
+.box-1{
+    padding: 20px;
+}
+header{
+    height: 10px;
+}
+.logo{
+    height: 25px;
+    margin: 0;
+}
+.illustration{
+    height: 80%;
+}
+.box-2{
+    margin-top: 50px;
+    color: #fff;
+    padding-right: 80px;
+}
+.box-2 h2{
+    font-size: 40px;
+}
+.box-2 input{
+    margin-top: 10px;
+    height: 35px;
+    width: 150px;
+    border-radius: 15px;
+    border: 0;
+}
+.box-2 input:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+footer{
+    color: #fff;
+    text-align: center;
+}
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
